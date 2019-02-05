@@ -24,7 +24,7 @@ public class MessageGenerator extends JFrame {
     private MessageGenerator() {
 
         // JFrame Settings
-        setTitle("Calculator");
+        setTitle("Message Generator");
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setSize(250, 250);
         setVisible(true);
