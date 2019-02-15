@@ -1,4 +1,4 @@
-# Simple-MessageGenerator
+# CMSC-335-MessageGenerator
 #### This repo contains Simple-MessageGenerator, a small GUI project that was created for CMSC-335.
 
 In Simple-MessageGenerator, I have created a very simple program that uses GUI.  This project was created for an online discussion in which students were tasked with creating a simple project that had GUI components, and Action Listeners.
